@@ -16,6 +16,7 @@ module.exports = {
         "prettier"
     ],
     "rules": {
+        "arrow-body-style": ["error", "always"],
         "linebreak-style": 0,
         "import/prefer-default-export": 0,
         "import/extensions": 0,
