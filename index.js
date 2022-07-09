@@ -99,19 +99,6 @@ module.exports = {
                 "newlines-between": "always"
             }
         ],
-        "prettier/prettier": [
-            "error",
-            {
-                "singleQuote": false,
-                "semi": true,
-                "useTabs": false,
-                "tabWidth": 2,
-                "trailingComma": "all",
-                "printWidth": 80,
-                "arrowParens": "always",
-                "bracketSpacing": true
-            }
-        ]
     },
     "parserOptions": {
         "ecmaVersion": 2017
