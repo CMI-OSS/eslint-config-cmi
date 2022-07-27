@@ -1,0 +1,11 @@
+### usage
+
+```
+// .eslintrc
+
+{
+  "extends": [
+    "cmi"
+  ]
+}
+```
